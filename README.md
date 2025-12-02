@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/MySQL-4D9EB1?style=for-the-badge&logo=mysql&logoColor=white">
 
 > Curso de Introducción a las Bases de datos |      
-> Martes y Jueves de 10hs a 12hs (Arg) |      
+> Martes y Jueves de 11hs a 13hs (Arg) |      
 > 9 clases |      
 > Desde 27/11/2025 hasta 30/12/2025 |     
 > Código 81490 |    
