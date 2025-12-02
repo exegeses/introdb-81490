@@ -25,3 +25,6 @@
         fechaAlta date not null  
     );   
 
+## Eliminar una tabla
+
+    DROP TABLE nombreTabla;  
